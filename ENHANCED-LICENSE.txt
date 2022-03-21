@@ -6,8 +6,9 @@ This license is subject to change without notice.
 
 Everyone can copy this license, but CANNOT change it.
 
-Unless otherwise stated, this license allows you to
-change, copy, publication, demonstrate, and this software.
+Unless otherwise stated, you may do anything with this software
+without restriction, including but not limited to use,
+copy, modify, merge, publish, or distribute.
 
 Any license, copyright notice, or agreement that accompanies
 the distribution of this software CANNOT be removed without permission.
