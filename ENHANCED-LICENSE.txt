@@ -11,7 +11,7 @@
 
  - (3) "Software" shall mean all parts of the software licensed under this License.
 
- - (4) "software based on the Software" shall mean a modified version of or
+ - (4) "Software based on the Software" shall mean a modified version of or
        software that depends on the Software.
        Including:
         - a. Software compiled after modifying the source code of the Software*.
